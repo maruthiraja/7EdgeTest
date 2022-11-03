@@ -1,0 +1,22 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maruthiraja/7EdgeTest.git"
+  },
+  "author": "maruthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maruthiraja/7EdgeTest/issues"
+  },
+  "homepage": "https://github.com/maruthiraja/7EdgeTest#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
